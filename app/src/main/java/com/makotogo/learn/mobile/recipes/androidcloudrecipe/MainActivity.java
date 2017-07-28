@@ -32,7 +32,7 @@ import org.springframework.web.client.RestTemplate;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String SERVER_URL = "http://androidrecipe.mybluemix.net/OdotWrapper/ItemRestService/Ping";
+    private static final String SERVER_URL = "http://androidcloudrecipe.mybluemix.net/OdotWrapper/ItemRestService/Ping";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

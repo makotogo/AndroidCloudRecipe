@@ -36,7 +36,7 @@ import org.springframework.web.client.RestTemplate;
  */
 public class MainActivityFragment extends Fragment {
 
-    private static final String SERVER_URL = "http://androidrecipe.mybluemix.net/OdotWrapper/ItemRestService/FindAll";
+    private static final String SERVER_URL = "http://androidcloudrecipe.mybluemix.net/OdotWrapper/ItemRestService/FindAll";
 
     public MainActivityFragment() {
     }
